@@ -1,0 +1,16 @@
+{
+  "name": "whattodo",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jhk2020/WhatToDo",
+  "authors": [
+    "Jihoon Kim <jhk2020@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
