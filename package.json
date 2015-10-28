@@ -1,0 +1,22 @@
+{
+  "name": "whattodo",
+  "version": "1.0.0",
+  "description": "Generic To Do App for the common people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhk2020/WhatToDo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhk2020/WhatToDo/issues"
+  },
+  "homepage": "https://github.com/jhk2020/WhatToDo#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
